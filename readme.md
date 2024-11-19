@@ -36,6 +36,7 @@ Selamat datang di repositori ini! Berikut adalah penyelesaian dari dua problem y
     ![alt text](static/image.png)
 
     Hasil yang diharapkan:
+    
     ![alt text](static/image-1.png)
 
     ### Jawaban
